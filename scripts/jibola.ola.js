@@ -1,8 +1,5 @@
-let firstName = "jibola";
-let lastName = "ola";
-function getFullName (firstName, lastName) {
-    return `${firstName} ${lastName}`;
-}
-let fullName = getFullName (firstName, lastName);
-let age = 22;
-let salaryExpectation = 55000.00;
+const myFirstName = "jibola";
+const myLastName = "ola";
+const myFullName = `${firstName} ${lastName}`;
+const age = 22;
+const salaryExpectation = 55000.00;
