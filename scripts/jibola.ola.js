@@ -1,5 +1,5 @@
-const firstName = "jibola";
-const lastName = "ola";
-const fullName = `${firstName} ${lastName}`;
-const age = 22;
-const salaryExpectation = 55000.00;
+let firstName = "jibola";
+let lastName = "ola";
+let fullName = `${firstName} ${lastName}`;
+let age = 22;
+let salaryExpectation = 55000.00;
