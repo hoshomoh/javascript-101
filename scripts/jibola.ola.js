@@ -1,5 +1,5 @@
-var firstName = "jibola";
-var lastName = "ola";
-var fullName = firstName + lastName;
-var age = 22;
-var salaryExpectationn = 65000.00;
+const firstName = "jibola";
+const lastName = "ola";
+const fullName = `${firstName} ${lastName}`;
+const age = 22;
+const salaryExpectationn = 65000.00;
